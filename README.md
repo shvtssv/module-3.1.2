@@ -31,8 +31,8 @@
 
 ## Запуск
 
-- macOS/Linux: `python3 calculator.py`
-- Windows (PowerShell/CMD): `py calculator.py` или `python calculator.py`
+cd calculator-project
+python3 calculator.py
 
 Пример CLI-сессии:
 
