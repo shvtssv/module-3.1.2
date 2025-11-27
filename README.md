@@ -32,6 +32,7 @@
 ## Запуск
 
 cd calculator-project
+
 python3 calculator.py
 
 Пример CLI-сессии:
